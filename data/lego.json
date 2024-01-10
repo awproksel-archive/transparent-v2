@@ -37,5 +37,13 @@
     "start_date": "01/07/2024",
     "end_date":"01/09/2024",
     "active_days": ["01/07/2024", "01/08/2024", "01/09/2024"]
+},
+{
+    "set_number":"71426",
+    "set_name:":"Piranha Plant",
+    "piece_count": 540,
+    "start_date": "01/09/2024",
+    "end_date":"",
+    "active_days": ["01/09/2024"]
 }
 ]
