@@ -45,5 +45,13 @@
     "start_date": "01/09/2024",
     "end_date":"01/10/2024",
     "active_days": ["01/09/2024", "01/10/2024"]
+},
+{
+    "set_number":"76250",
+    "set_name:":"Wolverine's Adamantium Claws",
+    "piece_count": 596,
+    "start_date": "01/10/2024",
+    "end_date":"",
+    "active_days": ["01/10/2024"]
 }
 ]
