@@ -53,5 +53,13 @@
     "start_date": "01/10/2024",
     "end_date":"01/10/2024",
     "active_days": ["01/10/2024"]
+},
+{
+    "set_number":"75349",
+    "set_name:":"Captain Rex Helmet",
+    "piece_count": 854,
+    "start_date": "01/11/2024",
+    "end_date":"",
+    "active_days": ["01/11/2024"]
 }
 ]
