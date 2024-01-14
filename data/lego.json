@@ -61,5 +61,13 @@
     "start_date": "01/11/2024",
     "end_date":"01/12/2024",
     "active_days": ["01/11/2024","01/12/2024"]
+},
+{
+    "set_number":"75350",
+    "set_name:":"Clone Commander Cody Helmet",
+    "piece_count": 766,
+    "start_date": "01/13/2024",
+    "end_date":"",
+    "active_days": ["01/13/2024"]
 }
 ]
