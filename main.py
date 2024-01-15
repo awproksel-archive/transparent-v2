@@ -1,4 +1,9 @@
+from datetime import date
 import json
+from functools import reduce
+
+soy = date(2024, 1, 1)
+today = date.today()
 
 def main():
     
@@ -19,6 +24,7 @@ def main():
         print("Active Build Days: {}".format(collection_unique_active_build_days))
         print("Total Days Active: {}".format(len(collection_unique_active_build_days)))
         print("Avg Pieces Per Active Day: {:.2f}".format(collection_total_pieces/len(collection_unique_active_build_days)))
+        print("Avg Pieces Per YOD - including non-active: {}".format(reduce(lambda x, y: (y-x).days, [soy, today])))
 
 if __name__ == '__main__':
     main()
