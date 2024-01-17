@@ -69,5 +69,13 @@
     "start_date": "01/13/2024",
     "end_date":"01/14/2024",
     "active_days": ["01/13/2024","01/14/2024"]
+},
+{
+    "set_number":"21329",
+    "set_name:":"Fender Stratocaster",
+    "piece_count": 1075,
+    "start_date": "01/16/2024",
+    "end_date":"",
+    "active_days": ["01/16/2024"]
 }
 ]
